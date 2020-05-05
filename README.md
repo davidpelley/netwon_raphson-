@@ -1,1 +1,0 @@
-# netwon_raphson-
